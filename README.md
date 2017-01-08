@@ -11,6 +11,7 @@
 - [Testing](#testing)
   - [Automated Testing](#automated-testing)
   - [UI Testing](#ui-testing)
+- [Blogs](#blogs)
 
 
 
@@ -36,3 +37,12 @@
 #### UI Testing
 
 * [Google Official Doc on Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html)
+
+## Blogs
+
+* [Android Weekly](http://androidweekly.net/) - The newsletter comes once a week and covers a broad range of topics like tutorials, screencasts, news etc just everything that's awesome in the Android Development world!
+
+* [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly Newsletter for Android Developers
+
+* [Android Sweets](https://androidsweets.ongoodbits.com/) - Weekly Dev Newsletter from Infinum
+
