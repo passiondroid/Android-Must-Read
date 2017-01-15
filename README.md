@@ -46,3 +46,4 @@
 
 * [Android Sweets](https://androidsweets.ongoodbits.com/) - Weekly Dev Newsletter from Infinum
 
+* [What makes a good Android Engineer](https://hackernoon.com/what-makes-a-good-android-software-engineer-206562e1fdb6#.8vg28utjt) - What makes a Good Android Engineer
