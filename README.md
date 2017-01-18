@@ -26,7 +26,7 @@
 * [Android: draw a custom view](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.trqqx4ftc) by Roman Danylyk
 
 #### WebView
-* [All about Android WebView](http://tutorials.jenkov.com/android/android-web-apps-using-android-webview.html#android-web-app-or-android-hybrid-app) by Jakob Jenkov
+* [All about Android WebView](http://tutorials.jenkov.com/android/android-web-apps-using-android-webview.html) by Jakob Jenkov
 
 ## Testing
 
