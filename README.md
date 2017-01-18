@@ -8,9 +8,11 @@
 - [Introduction](#introduction)
 - [Development](#development)
   - [Custom Views](#custom-views)
+  - [WebView](#webview)
 - [Testing](#testing)
   - [Automated Testing](#automated-testing)
   - [UI Testing](#ui-testing)
+- [Blogs](#blogs)
 
 
 
@@ -22,6 +24,9 @@
 
 #### Custom Views
 * [Android: draw a custom view](https://medium.com/@romandanylyk96/android-draw-a-custom-view-ef79fe2ff54b#.trqqx4ftc) by Roman Danylyk
+
+#### WebView
+* [All about Android WebView](http://tutorials.jenkov.com/android/android-web-apps-using-android-webview.html) by Jakob Jenkov
 
 ## Testing
 
@@ -36,3 +41,13 @@
 #### UI Testing
 
 * [Google Official Doc on Espresso](https://google.github.io/android-testing-support-library/docs/espresso/index.html)
+
+## Blogs
+
+* [Android Weekly](http://androidweekly.net/) - The newsletter comes once a week and covers a broad range of topics like tutorials, screencasts, news etc just everything that's awesome in the Android Development world!
+
+* [Android Dev Digest](https://www.androiddevdigest.com/) - A Handcrafted Weekly Newsletter for Android Developers
+
+* [Android Sweets](https://androidsweets.ongoodbits.com/) - Weekly Dev Newsletter from Infinum
+
+* [What makes a good Android Engineer](https://hackernoon.com/what-makes-a-good-android-software-engineer-206562e1fdb6#.8vg28utjt) - What makes a Good Android Engineer
