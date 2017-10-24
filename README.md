@@ -58,3 +58,5 @@
 * [Fragmented Podcast](http://fragmentedpodcast.com/) - An Android Developer Podcast
 
 * [Android Developers Backstage](http://androidbackstage.blogspot.in/) - An Android Developer Podcast started by developers working at Google
+
+* [TheContext-Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin, Artur Dryomov and wonderful guests!
