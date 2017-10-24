@@ -53,6 +53,8 @@
 
 * [What makes a good Android Engineer](https://hackernoon.com/what-makes-a-good-android-software-engineer-206562e1fdb6#.8vg28utjt) - What makes a Good Android Engineer
 
+* [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4) - Awesome Open-Source Android Apps To Boost Your Development Skills
+
 ## Podcasts
 
 * [Fragmented Podcast](http://fragmentedpodcast.com/) - An Android Developer Podcast
