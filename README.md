@@ -62,3 +62,5 @@
 * [Android Developers Backstage](http://androidbackstage.blogspot.in/) - An Android Developer Podcast started by developers working at Google
 
 * [TheContext-Podcast](https://github.com/artem-zinnatullin/TheContext-Podcast) - Podcast about Android Development with Hannes Dorfmann, Artem Zinnatullin, Artur Dryomov and wonderful guests!
+
+* [Podcast on Kotlin and more](http://talkingkotlin.com) - Multiplatform Development with Eugenio Marletti. It chat with Eugenio from Clue about sharing Kotlin code across multiple platforms and how Kotlin has helped them at Clue
