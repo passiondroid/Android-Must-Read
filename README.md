@@ -9,6 +9,7 @@
 - [Development](#development)
   - [Custom Views](#custom-views)
   - [WebView](#webview)
+  - [Dagger](#dagger)
 - [Testing](#testing)
   - [Automated Testing](#automated-testing)
   - [UI Testing](#ui-testing)
@@ -28,6 +29,9 @@
 
 #### WebView
 * [All about Android WebView](http://tutorials.jenkov.com/android/android-web-apps-using-android-webview.html) by Jakob Jenkov
+
+### Dagger
+* [Beginner’s Guide to Dagger in Android](https://medium.com/moducode/beginners-guide-to-dagger-in-android-b3c280366425)
 
 ## Testing
 
